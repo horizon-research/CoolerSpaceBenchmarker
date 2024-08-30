@@ -121,4 +121,4 @@ time_df = pd.DataFrame({
     "time": time_list
 })
 
-time_df.to_csv("./cupy_testing.csv")
+time_df.to_csv("./cupy.csv")
