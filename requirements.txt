@@ -1,0 +1,13 @@
+numpy
+pandas
+Pillow
+onnxruntime
+onnxruntime-gpu
+maturin
+matplotlib
+click
+numba
+colour-science
+cupy-cuda12x
+onneggs
+coolerspace

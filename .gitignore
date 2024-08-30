@@ -1,0 +1,7 @@
+# Generated files should not be included in repo
+*.onnx
+*.ort
+*.csv
+
+# IDE detritus
+.idea/
